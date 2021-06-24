@@ -1,0 +1,3 @@
+# test_rep
+SkillupAI 20210615_機械学習のためのソフトウェアエンジニア入門
+AWSにJupyter環境構築でのgithub試行
